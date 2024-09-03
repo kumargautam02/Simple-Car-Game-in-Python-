@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\GKUMAR83\PycharmProjects\street-fighter\.venv"
+VIRTUAL_ENV="C:\Users\Admin\Desktop\python_projects\Simple-Car-Game-in-Python-\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
